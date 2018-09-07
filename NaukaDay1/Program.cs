@@ -10,6 +10,7 @@ namespace NaukaDay1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
