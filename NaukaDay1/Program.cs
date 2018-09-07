@@ -19,9 +19,10 @@ namespace NaukaDay1
              /// Metoda main
              /// </summary>
              /// <param name="args"></param>
-        static void main(string[] args)
+        static void Main(string[] args)
         {
-   
+            Console.WriteLine("Nauka komentarzy w formacie XML");
+
         }
     }
 }
